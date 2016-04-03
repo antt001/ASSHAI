@@ -1,11 +1,13 @@
 # Asshai (Conway's Game of Life implemented with Phaser)
 
-Is based on:
+Is based on starter:
  [Phaser + ES6 + Webpack](https://github.com/lean/phaser-es6-webpack)
  A bootstrap project for create games with Phaser + ES6 + Webpack.
+ 
+ Assets by [kenney.nl](http://kenney.nl/)
 
 # Setup
-To use this bootstrap you’ll need to install a few things before you have a working copy of the project.
+Follow this instructions 
 
 ## 1. Clone this repo:
 
@@ -52,10 +54,3 @@ Run:
 ```npm run deploy```
 
 This will optimize and minimize the compiled bundle.
-
-## Credits
-Big thanks to this great repos:
-
-https://github.com/belohlavek/phaser-es6-boilerplate
-
-https://github.com/cstuncsik/phaser-es6-demo
